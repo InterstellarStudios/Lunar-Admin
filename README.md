@@ -1,6 +1,6 @@
 ![alt text](https://raw.githubusercontent.com/InterstellarStudios/Lunar-Admin/main/dev/images/LunarAdminTransparencyDropdown.png "Lunar Admin")
 <p align="center">
-  <"string">
+  [Install](https://create.roblox.com/store/asset/16144251783) | [GitHub Repository](https://github.com/InterstellarStudios/Lunar-Admin) | [Discord](https://discord.gg/zzW5WGy9Nk)
 </p>
 
 
