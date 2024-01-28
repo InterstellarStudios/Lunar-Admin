@@ -1,21 +1,12 @@
 ![alt text](https://raw.githubusercontent.com/InterstellarStudios/Lunar-Admin/main/dev/images/LunarAdminTransparencyDropdown.png "Lunar Admin")
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="width: 33.33%;">
-        <a href="https://create.roblox.com/store/asset/16144251783">Install</a> | 
-      </td>
-      <td align="center" style="width: 33.33%;">
-        <a href="https://github.com/InterstellarStudios/Lunar-Admin">GitHub</a> |
-      </td>
-      <td align="center" style="width: 33.33%;">
-        <a href="https://discord.gg/zzW5WGy9Nk">Discord</a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://create.roblox.com/store/asset/16144251783">Install</a> | 
+  <a href="https://github.com/InterstellarStudios/Lunar-Admin">GitHub</a> |
+  <a href="https://discord.gg/zzW5WGy9Nk">Discord</a>
 </div>
 
-<a name="about"></a>
+
+<a name="about"></a>zz
 
 Lunar represents a modernized iteration of classic Roblox administration systems, such as "HD Admin" or "Kohl's Infinite Admin." Notably, it incorporates a role-based ranking system similar to Discord's role structure. Lunar distinguishes itself through its high configurability, allowing individual players to personalize settings such as their prefix, argument split key, theme, and more.
 
