@@ -10,7 +10,7 @@ In addition to its adaptability, Lunar stands out for its optimization and effic
 
 Moreover, Lunar is highly customizable. Game developers have the flexibility to incorporate custom commands to themes, allowing them to shape and tailor Lunar to suit their specific needs and preferences.
 
-
+Finally, ensuring security and reliability stands as our topmost priority. We meticulously test Lunar to identify and rectify any vulnerabilities, non-efficient code, or elements that might cause inconvenience to you.
 
 
 
