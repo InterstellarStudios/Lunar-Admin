@@ -34,9 +34,9 @@ If you are still having problems, please message one of the [developers contacts
 
 ## Credits
 <a name ="credits"></a>
-[drdeadiy](https://www.roblox.com/users/1852818045/profile): Founder / Programmer / UI Designer
-[racingmason25](https://www.roblox.com/users/1300515962/profile): Lead Tester
-[7kayoh](https://www.roblox.com/users/87924253/profile): UI Design Inspiration
+[drdeadiy](https://www.roblox.com/users/1852818045/profile): Founder / Programmer / UI Designer  <br>
+[racingmason25](https://www.roblox.com/users/1300515962/profile): Lead Tester <br>
+[7kayoh](https://www.roblox.com/users/87924253/profile): UI Design Inspiration <br>
 
 ### Contacts
 <a name ="developer-contacts"></a>
