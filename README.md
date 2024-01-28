@@ -21,7 +21,6 @@ Lunar can be downloaded [here](create.roblox.com/store/asset/16144251783) by cli
 
 ### 2. Adding Lunar to your game
 To add Lunar to your game, open studio, click on the game you want to add Lunar to. Inside your toolbox, go to "Inventory" then "My Models", and drag Lunar into your game. It's best to parent Lunar into the Workspace if you are inexperienced with Roblox Studio.
-> [!TIP]
 > If your toolbox in not already open, click "VIEW on your toolbar, then click "Toolbox"
 # Debugging
 > [!NOTE]
@@ -43,7 +42,9 @@ If you are still having problems, please message one of the [developers contacts
 > [!IMPORTANT]
 > If you come across a bug or vulnerability, we kindly request that you reach out to us directly rather than sharing it publicly. This approach is essential to safeguard against potential exploitation of the vulnerability or bug. Your cooperation ensures a more secure environment for all users, and we appreciate your commitment to responsible disclosure.
 
-Discord: drdeadz
-Roblox: [snow](https://www.roblox.com/users/1852818045/profile) (Follow to message)
+Discord: drdeadz <br>
+Roblox: [snow](https://www.roblox.com/users/1852818045/profile)
+> Follow to message me on Roblox, spam/unimportant messages will be ignored!
+
 
 
