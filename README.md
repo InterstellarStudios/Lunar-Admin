@@ -20,8 +20,9 @@ Finally, ensuring security and reliability stands as our topmost priority. We me
 Lunar can be downloaded [here](create.roblox.com/store/asset/16144251783) by clicking "Get Model"
 
 ### 2. Adding Lunar to your game
-To add Lunar to your game, open studio, click on the game you want to add Lunar to, if your toolbox is not already open, on the toolbar click "VEIW", then "Toolbox". Inside your toolbox, go to "Inventory" then "My Models", and drag Lunar into your game. It's best to parent Lunar into the Workspace if you are inexperienced with Roblox Studio.
-
+To add Lunar to your game, open studio, click on the game you want to add Lunar to. Inside your toolbox, go to "Inventory" then "My Models", and drag Lunar into your game. It's best to parent Lunar into the Workspace if you are inexperienced with Roblox Studio.
+> [!TIP]
+> If your toolbox in not already open, click "VIEW on your toolbar, then click "Toolbox"
 # Debugging
 > [!NOTE]
 > Print and Errors will only appear in the output well testing in Roblox Studio, warnings will be printed into output in-game, if not disabled in settings
