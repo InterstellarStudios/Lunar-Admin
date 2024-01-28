@@ -24,11 +24,9 @@ To add Lunar to your game, open studio, click on the game you want to add Lunar 
 > If your toolbox in not already open, click "VIEW on your toolbar, then click "Toolbox"
 > 
 # Debugging 🐞
-> [!NOTE]
+If theres no output, it's most likely that you are requiring the MainModule wrong, to fix this, make sure the loader is parented to either Workspace or ServerScriptStorage.
 > Print and Errors will only appear in the output well testing in Roblox Studio, warnings will be printed into output in-game, if not disabled in settings
 In most cases, it's as easy as executing the command "lunarconsole" and following the steps Lunar provides. If "lunarconsole" is not working, check the output for instructions.
-
-If theres no output, it's most likely that you are requiring the MainModule wrong, to fix this, make sure the loader is parented to either Workspace or ServerScriptStorage.
 
 If you are still having problems, please message one of the [developers contacts](#developer-contacts)
 
