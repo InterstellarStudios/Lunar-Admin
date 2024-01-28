@@ -38,7 +38,7 @@ If you are still having problems, please message one of the [developers contacts
 [racingmason25](https://www.roblox.com/users/1300515962/profile): Lead Tester <br>
 [7kayoh](https://www.roblox.com/users/87924253/profile): UI Design Inspiration <br>
 
-### Contacts
+## Contacts
 <a name ="developer-contacts"></a>
 > [!IMPORTANT]
 > If you come across a bug or vulnerability, we kindly request that you reach out to us directly rather than sharing it publicly. This approach is essential to safeguard against potential exploitation of the vulnerability or bug. Your cooperation ensures a more secure environment for all users, and we appreciate your commitment to responsible disclosure.
