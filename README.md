@@ -34,6 +34,8 @@ In most cases, it's as easy as executing the command "lunarconsole" and followin
 
 If you are still having problems, please message one of the [developers contacts](#developer-contacts)
 
+##
+
 ### Contacts ✉️
 <a name ="developer-contacts"></a>
 > [!IMPORTANT]
