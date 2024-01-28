@@ -23,8 +23,8 @@ Lunar can be downloaded [here](create.roblox.com/store/asset/16144251783) by cli
 To add Lunar to your game, open studio, click on the game you want to add Lunar to, if your toolbox is not already open, on the toolbar click "VEIW", then "Toolbox". Inside your toolbox, go to "Inventory" then "My Models", and drag Lunar into your game. It's best to parent Lunar into the Workspace if you are inexperienced with Roblox Studio.
 
 # Debugging
-<a name="debugging"></a>
-(Note: Print and Errors will only appear in the output well testing in Roblox Studio, warnings will be printed into output in-game, if not disabled in settings)
+> [!NOTE]
+> Print and Errors will only appear in the output well testing in Roblox Studio, warnings will be printed into output in-game, if not disabled in settings
 In most cases, it's as easy as executing the command "lunarconsole" and following the steps Lunar provides. If "lunarconsole" is not working, check the output for instructions.
 
 If theres no output, it's most likely that you are requiring the MainModule wrong, to fix this, make sure the loader is parented to either Workspace or ServerScriptStorage.
@@ -39,7 +39,8 @@ If you are still having problems, please message one of the [developers contacts
 
 ### Contacts
 <a name ="developer-contacts"></a>
-If you come across a bug or vulnerability, we kindly request that you reach out to us directly rather than sharing it publicly. This approach is essential to safeguard against potential exploitation of the vulnerability or bug. Your cooperation ensures a more secure environment for all users, and we appreciate your commitment to responsible disclosure.
+> [!IMPORTANT]
+> If you come across a bug or vulnerability, we kindly request that you reach out to us directly rather than sharing it publicly. This approach is essential to safeguard against potential exploitation of the vulnerability or bug. Your cooperation ensures a more secure environment for all users, and we appreciate your commitment to responsible disclosure.
 
 Discord: drdeadz
 Roblox: [snow](https://www.roblox.com/users/1852818045/profile) (Follow to message)
