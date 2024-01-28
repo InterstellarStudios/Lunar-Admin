@@ -1,10 +1,18 @@
 ![alt text](https://raw.githubusercontent.com/InterstellarStudios/Lunar-Admin/main/dev/images/LunarAdminTransparencyDropdown.png "Lunar Admin")
 <div align="center">
-  <p style="display: flex; justify-content: space-between; width: 300px;">
-    <a href="https://create.roblox.com/store/asset/16144251783">Install</a> | 
-    <a href="https://github.com/InterstellarStudios/Lunar-Admin">GitHub</a> |
-    <a href="https://discord.gg/zzW5WGy9Nk">Discord</a>
-  </p>
+  <table>
+    <tr>
+      <td align="center" style="width: 33.33%;">
+        <a href="https://create.roblox.com/store/asset/16144251783">Install</a> | 
+      </td>
+      <td align="center" style="width: 33.33%;">
+        <a href="https://github.com/InterstellarStudios/Lunar-Admin">GitHub</a> |
+      </td>
+      <td align="center" style="width: 33.33%;">
+        <a href="https://discord.gg/zzW5WGy9Nk">Discord</a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <a name="about"></a>
